@@ -4,7 +4,6 @@
 # In[11]:
 
 #################################
-# Your name:Yonatan Gertskin
 #################################
 
 # Please import and use stuff only from the packages numpy, sklearn, matplotlib
