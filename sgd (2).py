@@ -2,9 +2,8 @@
 # coding: utf-8
 
 # In[11]:
-
-#################################
-#################################
+werre#################################
+####################גכעגכעsdf#############
 
 # Please import and use stuff only from the packages numpy, sklearn, matplotlib
 
