@@ -14,7 +14,7 @@ import sklearn.preprocessing
 import matplotlib.pyplot as plt
 import  matplotlib
 """
-Assignment 3 question 2 skeleton.
+Assignment 3bcbvcquestion 2 skeleton.
 
 Please use the provided function signature for the SGD implementation.
 Feel free to add functions and other code, and submit this file with the name sgd.py
